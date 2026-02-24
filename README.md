@@ -1,2 +1,2 @@
-# promoter
-Promoting system for ezagent
+# Ezagent.cloud
+Official Site for Ezagent
